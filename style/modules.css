@@ -45,10 +45,9 @@
 
   .section3{
     height: 500px;
-    width: 480px;
     background-color: black; 
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: column wrap;  
   }
 
   #middle-section{
