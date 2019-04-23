@@ -1,0 +1,63 @@
+
+header{
+  height: 100px;
+  width: 960px;
+  margin: 0 auto;
+  background-color: gray;
+  /* border: 1px black solid; */
+}
+
+main{
+  display: inline;
+}
+
+.section1{
+  float: left;
+  height: 600px;
+  width: 200px;
+  background-color: blue;
+}
+
+.section1:after{
+  content: "";
+  /* display: flex; */
+  clear: both;
+}
+
+.section2{
+  display: flex;
+  height: 200px;
+  width: 760px;
+  background-color: lightblue;
+}
+
+.section3{
+  display: flex;
+  background-color: lightcoral;
+  height: 250px;
+  width: 760px;
+}
+
+.section4{
+  display: flex;
+  background-color: lightpink;
+  height: 150px;
+}
+
+
+
+
+ 
+
+
+  
+
+
+
+
+
+
+
+
+
+}
