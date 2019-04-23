@@ -1,4 +1,4 @@
-
+/*  layout.css styling */
 header{
   height: 100px;
   width: 960px;
@@ -42,22 +42,4 @@ main{
   display: flex;
   background-color: lightpink;
   height: 150px;
-}
-
-
-
-
- 
-
-
-  
-
-
-
-
-
-
-
-
-
 }
