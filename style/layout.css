@@ -1,5 +1,6 @@
 /*  layout.css styling */
 header{
+  margin: 0px auto;
   height: 100px;
   width: 960px;
   margin: 0 auto;
@@ -8,6 +9,7 @@ header{
 }
 
 main{
+  margin: 0px auto;
   display: inline;
 }
 
@@ -33,7 +35,7 @@ main{
 
 .section3{
   display: flex;
-  background-color: lightcoral;
+  background-color: green;
   height: 250px;
   width: 760px;
 }
