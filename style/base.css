@@ -1,9 +1,12 @@
 /* base.css styling */
 *{
   text-align: center;
+  justify-content: center;
+  align-content: center;
 }
 
 body{
+  margin: 0px auto;
   width: 960px;
 }
 

@@ -10,7 +10,7 @@ Your document must be designed in a mobile-first approach and must be responsive
 
 Liz Mahoney
 
-## Feature Tasks
+## Feature #2 Create Desktop/Mobile Viewports
 
 - [x] Create a new repository named lab-01.
 - [x] Work on a non-master branch.
@@ -22,12 +22,11 @@ Liz Mahoney
 - [x]  For the desktop view, the content should be inside of a channel that is a maximum of 960 pixels wide and is centered on wider screen sizes.
 - [x] Each box should have a unique background color in mobile view and in desktop view. We are not working with jQuery events yet, so these changes should be observed when the screen size changes and the page is refreshed.
 
-## Stretch Goal
+## Feature #2: Responsive design 4/29/19
 
-- Create an additional breakpoint for a new set of colors when the page is viewed on a tablet.
-- Use jQuery to change the color of each box based on the screen size.
+Why are we implementing this feature?
 
-## Submission Instructions
-
-- Complete your Feature Tasks for the day
-- Create a Pull Request (PR) back to the master branch of your repository.
+- [x] As a user, I want the dimensions and colors of the application to change so that I can have a unique view in desktop, mobile, and tablet viewports.
+- [x] Use flex box or CSS grids for styling this application.
+Use relative units so the elements scale proportionally when the viewport dimensions change.
+- [x] Use at least two breakpoints and change the background colors of each box. There should be three possible views: desktop, tablet, and mobile device. You may choose the exact pixel values for each breakpoint.
